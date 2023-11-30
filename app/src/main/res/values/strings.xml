@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task ISBC</string>
+    <string name="base_url">https://randomfox.ca/</string>
+    <string name="submit">Submit</string>
+    <string name="Change">Change</string>
+    <string name="Source">Source</string>
+    <string name="TaskDone">Task Done</string>
+</resources>
